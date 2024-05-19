@@ -1,0 +1,123 @@
+body{
+    background-color:rgb(207, 241, 208)
+}
+.contact{
+    height:90vh;
+    width:45vw;
+    margin:20px;
+    border:3px solid white;
+    padding:5px;
+    position:relative;
+    left:350px;
+    top:20px;
+    background-color: white;
+    border-radius: 7px;
+}
+.c{
+    position:relative;
+    left:20px;
+}
+label{
+    font-size: 18px;
+    position:relative;
+    left:20px;
+}
+#first{
+        position:relative;
+        left:20px;
+        top:13px;
+        border-radius:4px;
+        margin:3px;
+        width:200px;
+        height:30px;
+    
+}
+.la{
+    font-size: 18px;
+    position:relative;
+    left:250px;
+}
+#last{
+    position:relative;
+        left:120px;
+        top:13px;
+        border-radius:4px;
+        margin:3px;
+        width:200px;
+        height:30px;
+
+}
+.emd{
+    font-size: 18px;
+    position:relative;
+    left:20px;
+    top:20px;
+}
+#em{
+       position:relative;
+        left:20px;
+        top:33px;
+        border-radius:4px;
+        margin:3px;
+        width:520px;
+        height:30px;
+
+}
+
+.h{
+    position:relative;
+    top:45px;
+    left:20px;
+}
+
+
+.gene{
+    position:relative;
+    left:20px;
+    top:60px;
+    height:30px;
+    width:230px;
+    margin:00px;
+    border:2px solid black;
+    border-radius:4px;
+    
+}
+.supp{
+    position:relative;
+    left:300px;
+    top:26px;
+    height:30px;
+    width:230px;
+    margin:00px;
+    border:2px solid black;
+    border-radius:4px;
+
+}
+#comment{
+    position:relative;
+    left:20px;
+    top:70px;
+}
+
+#sur{
+    position: relative;
+    top:80px;
+    left:20px;
+}
+.st{
+    border:1px solid white;
+    background-color: green;
+    height:40px;
+    width:520px;
+    position: relative;
+    top:100px;
+    left:20px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    color:white;
+}
+
+
+
+
